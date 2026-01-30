@@ -1,0 +1,5 @@
+# Changelog for PartyYourFAssOff
+
+1.6.1 - Updated to 1.6, removed Harmony requirement
+Used DeepL to update translations for ChineseSimplified, French, German
+

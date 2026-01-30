@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModSyncNinjaData>
+  <ID>d9ce2027-be7c-4c88-844d-cd1b0ed78601</ID>
+  <ModName>Party Your F****** Ass Off (Continued)</ModName>
+  <Version>1.6.1</Version>
+  <SaveBreaking>False</SaveBreaking>
+  <Host name="Github">
+    <Owner>emipa606</Owner>
+    <Project>PartyYourFAssOff</Project>
+    <AboutDir>About</AboutDir>
+    <DownloadFrom>ModSyncMainPage</DownloadFrom>
+    <Branch>master</Branch>
+  </Host>
+</ModSyncNinjaData>
+
+
+
+
+
