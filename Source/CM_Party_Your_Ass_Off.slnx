@@ -6,4 +6,10 @@
     <BuildType Name="Release" />
   </Configurations>
   <Project Path="CM_Party_Your_Ass_Off/CM_Party_Your_Ass_Off.csproj" />
+  <Folder Name="/XML/Languages/English/Keyed/">
+    <File Path="../Languages/English/Keyed/CM_Party_Your_Ass_Off_Keys.xml" />
+  </Folder>
+  <Folder Name="/XML/About/">
+    <File Path="../About/about.xml" />
+  </Folder>
 </Solution>

@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>d9ce2027-be7c-4c88-844d-cd1b0ed78601</ID>
   <ModName>Party Your F****** Ass Off (Continued)</ModName>
-  <Version>1.6.1</Version>
+  <Version>1.7.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,8 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-
-
